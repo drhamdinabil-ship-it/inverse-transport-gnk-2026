@@ -1,0 +1,58 @@
+[
+  {
+    "perturbation": 0.05,
+    "noise": 0.0,
+    "error": 6.707653860842727e-11,
+    "n_iter": 6,
+    "final_residual": 1.511017270085153e-11
+  },
+  {
+    "perturbation": 0.05,
+    "noise": 0.01,
+    "error": 0.004902769461701206,
+    "n_iter": 4,
+    "final_residual": 0.00890283822784269
+  },
+  {
+    "perturbation": 0.05,
+    "noise": 0.03,
+    "error": 0.014685619870360317,
+    "n_iter": 4,
+    "final_residual": 0.02670837341770913
+  },
+  {
+    "perturbation": 0.05,
+    "noise": 0.05,
+    "error": 0.024438388499327512,
+    "n_iter": 4,
+    "final_residual": 0.04451372276915828
+  },
+  {
+    "perturbation": 0.1,
+    "noise": 0.0,
+    "error": 2.709152223803464e-10,
+    "n_iter": 6,
+    "final_residual": 6.113359671038647e-11
+  },
+  {
+    "perturbation": 0.1,
+    "noise": 0.01,
+    "error": 0.004890179117413456,
+    "n_iter": 4,
+    "final_residual": 0.008890679652205394
+  },
+  {
+    "perturbation": 0.1,
+    "noise": 0.03,
+    "error": 0.014646888258261239,
+    "n_iter": 4,
+    "final_residual": 0.026671890156873226
+  },
+  {
+    "perturbation": 0.1,
+    "noise": 0.05,
+    "error": 0.024372709974549753,
+    "n_iter": 4,
+    "final_residual": 0.044452904899969434
+  }
+]
